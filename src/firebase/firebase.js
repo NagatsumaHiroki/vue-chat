@@ -9,15 +9,14 @@ import "firebase/compat/firestore"
 import "firebase/compat/auth";
 import "firebase/compat/storage";
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "*************",
-  authDomain: "*************",
-  databaseURL: "****************",
-  projectId: "****************",
-  storageBucket: "****************",
-  messagingSenderId: "****************3",
-  appId: "****************"
+  apiKey: "AIzaSyAZGIh555wJ9HIqwKa4GPoDnr8EvmARV84",
+  authDomain: "vue-sample-chat-dfbec.firebaseapp.com",
+  databaseURL: "https://vue-sample-chat-dfbec-default-rtdb.firebaseio.com",
+  projectId: "vue-sample-chat-dfbec",
+  storageBucket: "vue-sample-chat-dfbec.appspot.com",
+  messagingSenderId: "235354364643",
+  appId: "1:235354364643:web:f1517ad8556099e603c3d6"
 };
 
 
